@@ -1,22 +1,93 @@
-<h1 align="center">Hi 👋, I'm Naim Shaikh</h1>
-<h3 align="center">A Flutter developer from India</h3>
+# 👋 Hi, I'm **Naim Shaikh**
 
-- 🔭 I’m currently working in **kwiktech it services**
+### <p align="center">A Flutter developer from India</p>
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/naim-shaikh27/](https://www.linkedin.com/in/naim-shaikh27/)
-
-- 💬 Ask me about **flutter,Html & Css,Photoshop**
-
-- 📫 How to reach me **naim42258@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Hc4nF-ADPevYMk_BFdIVJegSeoM5nEsF/view?usp=sharing](https://drive.google.com/file/d/1Hc4nF-ADPevYMk_BFdIVJegSeoM5nEsF/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naim-shaikh27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naim-shaikh27" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<h2 align="center">🚀 Flutter Developer | Mobile UI/UX Enthusiast | Problem Solver</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimshaikh22&show_icons=true&locale=en&layout=compact" alt="naimshaikh22" /></p>
+<p align="center">
+  <i>I love turning ideas into beautiful, functional, and scalable mobile experiences.</i>
+</p>
+
+---
+
+## 🔥 About Me
+
+* 🔭 Currently working at **KwikTech IT Services**
+* 📱 Specialized in **Flutter**, **Firebase**, and **modern mobile UI/UX**
+* 🎨 Focused on responsive layouts, smooth animations, and clean architecture
+* 💬 Ask me about **Flutter, HTML/CSS, Photoshop**
+* 📩 Email: **[naim42258@gmail.com](mailto:naim42258@gmail.com)**
+* 🌐 Portfolio & Projects: [LinkedIn](https://www.linkedin.com/in/naim-shaikh27/)
+* 📄 Resume: [View PDF](https://drive.google.com/file/d/1Hc4nF-ADPevYMk_BFdIVJegSeoM5nEsF/view?usp=sharing)
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/naim-shaikh27" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 Flutter Applications
+
+💙 **KwikBill** – A restaurant management and billing system with:
+
+* Table & zone management
+* Order handling workflow
+* Smooth UI and fast operations
+
+🟢 **Permissify** – A government-copyrighted leave management system:
+
+* Revolutionizes the leave application process for students and faculty
+* User-friendly app for requesting and managing leave effortlessly
+* Enhances efficiency, transparency, and convenience in academic workflows
+
+💊 **Janseva** – Pharmacy management app with:
+
+* Fast billing system
+* Inventory tracking
+* Customer management & history
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naimshaikh22&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimshaikh22&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naimshaikh22&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Quote
+
+> *“Great apps aren’t built — they’re crafted.”*
+
+---
+
+⭐ **If my work inspires you, consider starring my repositories!**
