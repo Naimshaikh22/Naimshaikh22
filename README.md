@@ -59,7 +59,7 @@
 * Order handling workflow
 * Smooth UI and fast operations
 
-🟢 **Permissify** – A government-copyrighted leave management system:
+🟢 **Permissify** – A leave management system and Copyright granted by govt. of india :
 
 * Revolutionizes the leave application process for students and faculty
 * User-friendly app for requesting and managing leave effortlessly
