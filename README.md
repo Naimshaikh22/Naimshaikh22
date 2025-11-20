@@ -1,9 +1,12 @@
 # 👋 Hi, I'm **Naim Shaikh**
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=1E90FF&center=true&vCenter=true&width=500&lines=Flutter+Developer+from+India;Mobile+App+Developer;UI%2FUX+Enthusiast;Turning+Ideas+into+Beautiful+Apps" />
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70" />
 </p>
 
 <h2 align="center">🚀 Flutter Developer | Mobile UI/UX Enthusiast | Problem Solver</h2>
