@@ -25,7 +25,7 @@
 * 💬 Ask me about **Flutter, HTML/CSS, Photoshop**
 * 📩 Email: **[naim42258@gmail.com](mailto:naim42258@gmail.com)**
 * 🌐 Portfolio & Projects: [LinkedIn](https://www.linkedin.com/in/naim-shaikh27/)
-* 📄 Resume: [View PDF](https://drive.google.com/file/d/1Hc4nF-ADPevYMk_BFdIVJegSeoM5nEsF/view?usp=sharing)
+* 📄 Resume: [View PDF](https://drive.google.com/file/d/12MgFfzaNg0qGNaYRWlwBmtyOvn8yCR8V/view?usp=sharing)
 
 ---
 
